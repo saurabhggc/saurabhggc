@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @saurabhggc
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning advanace javascript
+- 📖 I'm reading You Don't Know JS yet
 
-<!---
-saurabhggc/saurabhggc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
